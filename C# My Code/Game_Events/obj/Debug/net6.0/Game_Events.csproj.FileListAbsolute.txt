@@ -1,0 +1,14 @@
+D:\Programming Projects\C#\General\Game_Events\bin\Debug\net6.0\Game_Events.exe
+D:\Programming Projects\C#\General\Game_Events\bin\Debug\net6.0\Game_Events.deps.json
+D:\Programming Projects\C#\General\Game_Events\bin\Debug\net6.0\Game_Events.runtimeconfig.json
+D:\Programming Projects\C#\General\Game_Events\bin\Debug\net6.0\Game_Events.dll
+D:\Programming Projects\C#\General\Game_Events\bin\Debug\net6.0\Game_Events.pdb
+D:\Programming Projects\C#\General\Game_Events\obj\Debug\net6.0\Game_Events.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Projects\C#\General\Game_Events\obj\Debug\net6.0\Game_Events.AssemblyInfoInputs.cache
+D:\Programming Projects\C#\General\Game_Events\obj\Debug\net6.0\Game_Events.AssemblyInfo.cs
+D:\Programming Projects\C#\General\Game_Events\obj\Debug\net6.0\Game_Events.csproj.CoreCompileInputs.cache
+D:\Programming Projects\C#\General\Game_Events\obj\Debug\net6.0\Game_Events.dll
+D:\Programming Projects\C#\General\Game_Events\obj\Debug\net6.0\refint\Game_Events.dll
+D:\Programming Projects\C#\General\Game_Events\obj\Debug\net6.0\Game_Events.pdb
+D:\Programming Projects\C#\General\Game_Events\obj\Debug\net6.0\Game_Events.genruntimeconfig.cache
+D:\Programming Projects\C#\General\Game_Events\obj\Debug\net6.0\ref\Game_Events.dll

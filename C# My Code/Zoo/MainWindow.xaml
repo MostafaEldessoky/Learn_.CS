@@ -1,0 +1,66 @@
+﻿<Window x:Class="Zoo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Zoo"
+        mc:Ignorable="d"
+        Title="Zoo" Height="600" Width="800">
+    <Grid Background="#FFBDF507">
+        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="10"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="10"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="10"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="10"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="10"/>
+            <RowDefinition Height="45"/>
+            <RowDefinition Height="10"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="10"/>
+            <RowDefinition Height="45"/>
+            <RowDefinition Height="10"/>
+            <RowDefinition Height="45"/>
+            <RowDefinition Height="10"/>
+            <RowDefinition Height="45"/>
+            <RowDefinition Height="10"/>
+            <RowDefinition Height="45"/>
+            <RowDefinition Height="10"/>
+        </Grid.RowDefinitions>
+
+        <Button Click="ClickAddZoo" Grid.Column="1" Content="Add Zoo" Grid.Row="9" Background="#FFE21313" Foreground="White" FontFamily="Agency FB" FontSize="36" FontWeight="Bold" VerticalAlignment="Center"/>
+
+        <Button Click="ClickUpdateZoo" Grid.Column="1" Content="Update Zoo" Grid.Row="11" Background="#FFE21313" Foreground="White" FontFamily="Agency FB" FontSize="36" FontWeight="Bold" VerticalAlignment="Center"/>
+
+        <Button Click="ClickAddAnimal" Grid.Column="3" Content="Add Animal" Grid.Row="9" Background="#FFE21313" Foreground="White" FontFamily="Agency FB" FontSize="36" FontWeight="Bold" VerticalAlignment="Center"/>
+
+        <Button Click="ClickUpdateAnimal" Grid.Column="3" Content="Update Animal" Grid.Row="11" Background="#FFE21313" Foreground="White" FontFamily="Agency FB" FontSize="36" FontWeight="Bold" VerticalAlignment="Center"/>
+
+        <Button Click="ClickDeleteAnimal" Grid.Column="5" Content="Delete Animal" Grid.Row="11" Background="#FFE21313" Foreground="White" FontFamily="Agency FB" FontSize="36" FontWeight="Bold" VerticalAlignment="Center"/>
+
+        <Button Click="ClickDeleteZoo" Grid.Column="1" Content="Delete Zoo" Grid.Row="5" Background="#FFE21313" Foreground="White" FontFamily="Agency FB" FontSize="36" FontWeight="Bold" VerticalAlignment="Center"/>
+
+        <Button Click="ClickRemoveAnimal" Grid.Column="3" Content="Remove Animal" Grid.Row="5" Background="#FFE21313" Foreground="White" FontFamily="Agency FB" FontSize="36" FontWeight="Bold" VerticalAlignment="Center"/>
+
+        <Button Click="ClickAddAnimaltoZoo" Grid.Column="5" Content="Add Animal to Zoo" Grid.Row="1" Background="#FFE21313" Foreground="White" FontFamily="Agency FB" FontSize="36" FontWeight="Bold" VerticalAlignment="Center"/>
+
+        <Label Grid.Column="1" Content="Zoos" Grid.Row="1" FontFamily="Agency FB" FontSize="36" FontWeight="Bold" Foreground="#FF0428F3" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+
+        <Label Grid.Column="3" Content="Associated Animals" Grid.Row="1" FontFamily="Agency FB" FontSize="36" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="#FF073AD8"/>
+
+        <TextBox x:Name="tb" Grid.ColumnSpan = "3"  Grid.Column="1" Grid.Row="7" TextWrapping="Wrap" Background="Black" Foreground="White" FontFamily="Agency FB" FontSize="36" FontWeight="Bold"/>
+
+        <ListBox SelectionChanged="Zooslb_SelectionChanged" x:Name="Zooslb"  Grid.Column="1" Grid.Row="3" d:ItemsSource="{d:SampleData ItemCount=5}" Background="#FF003AED" Foreground="White" FontFamily="Agency FB" FontSize="24" FontWeight="Bold"/>
+
+        <ListBox x:Name="AssociatedAnimalslb"   Grid.Column="3" Grid.Row="3" d:ItemsSource="{d:SampleData ItemCount=5}" Background="#FF003AED" Foreground="White" FontFamily="Agency FB" FontSize="24" FontWeight="Bold"/>
+
+        <ListBox SelectionChanged="ExistedAnimalslb_SelectionChanged" x:Name="ExistedAnimalslb"  Grid.RowSpan = "7" Grid.Column="5" Grid.Row="3" d:ItemsSource="{d:SampleData ItemCount=5}" Background="#FF003AED" Foreground="White" FontFamily="Agency FB" FontSize="24" FontWeight="Bold"/>
+
+    </Grid>
+</Window>

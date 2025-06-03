@@ -1,0 +1,14 @@
+D:\Programming Projects\C#\General\X_O_Game\bin\Debug\net6.0\X_O_Game.exe
+D:\Programming Projects\C#\General\X_O_Game\bin\Debug\net6.0\X_O_Game.deps.json
+D:\Programming Projects\C#\General\X_O_Game\bin\Debug\net6.0\X_O_Game.runtimeconfig.json
+D:\Programming Projects\C#\General\X_O_Game\bin\Debug\net6.0\X_O_Game.dll
+D:\Programming Projects\C#\General\X_O_Game\bin\Debug\net6.0\X_O_Game.pdb
+D:\Programming Projects\C#\General\X_O_Game\obj\Debug\net6.0\X_O_Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Projects\C#\General\X_O_Game\obj\Debug\net6.0\X_O_Game.AssemblyInfoInputs.cache
+D:\Programming Projects\C#\General\X_O_Game\obj\Debug\net6.0\X_O_Game.AssemblyInfo.cs
+D:\Programming Projects\C#\General\X_O_Game\obj\Debug\net6.0\X_O_Game.csproj.CoreCompileInputs.cache
+D:\Programming Projects\C#\General\X_O_Game\obj\Debug\net6.0\X_O_Game.dll
+D:\Programming Projects\C#\General\X_O_Game\obj\Debug\net6.0\refint\X_O_Game.dll
+D:\Programming Projects\C#\General\X_O_Game\obj\Debug\net6.0\X_O_Game.pdb
+D:\Programming Projects\C#\General\X_O_Game\obj\Debug\net6.0\X_O_Game.genruntimeconfig.cache
+D:\Programming Projects\C#\General\X_O_Game\obj\Debug\net6.0\ref\X_O_Game.dll

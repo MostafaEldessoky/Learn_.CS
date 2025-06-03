@@ -1,0 +1,14 @@
+D:\Programming Projects\C#\General\Structs_Enums_Nallable\bin\Debug\net6.0\Structs_Enums_Nullable.exe
+D:\Programming Projects\C#\General\Structs_Enums_Nallable\bin\Debug\net6.0\Structs_Enums_Nullable.deps.json
+D:\Programming Projects\C#\General\Structs_Enums_Nallable\bin\Debug\net6.0\Structs_Enums_Nullable.runtimeconfig.json
+D:\Programming Projects\C#\General\Structs_Enums_Nallable\bin\Debug\net6.0\Structs_Enums_Nullable.dll
+D:\Programming Projects\C#\General\Structs_Enums_Nallable\bin\Debug\net6.0\Structs_Enums_Nullable.pdb
+D:\Programming Projects\C#\General\Structs_Enums_Nallable\obj\Debug\net6.0\Structs_Enums_Nullable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Projects\C#\General\Structs_Enums_Nallable\obj\Debug\net6.0\Structs_Enums_Nullable.AssemblyInfoInputs.cache
+D:\Programming Projects\C#\General\Structs_Enums_Nallable\obj\Debug\net6.0\Structs_Enums_Nullable.AssemblyInfo.cs
+D:\Programming Projects\C#\General\Structs_Enums_Nallable\obj\Debug\net6.0\Structs_Enums_Nullable.csproj.CoreCompileInputs.cache
+D:\Programming Projects\C#\General\Structs_Enums_Nallable\obj\Debug\net6.0\Structs_Enums_Nullable.dll
+D:\Programming Projects\C#\General\Structs_Enums_Nallable\obj\Debug\net6.0\refint\Structs_Enums_Nullable.dll
+D:\Programming Projects\C#\General\Structs_Enums_Nallable\obj\Debug\net6.0\Structs_Enums_Nullable.pdb
+D:\Programming Projects\C#\General\Structs_Enums_Nallable\obj\Debug\net6.0\Structs_Enums_Nullable.genruntimeconfig.cache
+D:\Programming Projects\C#\General\Structs_Enums_Nallable\obj\Debug\net6.0\ref\Structs_Enums_Nullable.dll

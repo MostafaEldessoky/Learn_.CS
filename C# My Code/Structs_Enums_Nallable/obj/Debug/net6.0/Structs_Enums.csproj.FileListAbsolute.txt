@@ -1,0 +1,14 @@
+D:\Programming Projects\C#\General\Structs_Enums\bin\Debug\net6.0\Structs_Enums.exe
+D:\Programming Projects\C#\General\Structs_Enums\bin\Debug\net6.0\Structs_Enums.deps.json
+D:\Programming Projects\C#\General\Structs_Enums\bin\Debug\net6.0\Structs_Enums.runtimeconfig.json
+D:\Programming Projects\C#\General\Structs_Enums\bin\Debug\net6.0\Structs_Enums.dll
+D:\Programming Projects\C#\General\Structs_Enums\bin\Debug\net6.0\Structs_Enums.pdb
+D:\Programming Projects\C#\General\Structs_Enums\obj\Debug\net6.0\Structs_Enums.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Projects\C#\General\Structs_Enums\obj\Debug\net6.0\Structs_Enums.AssemblyInfoInputs.cache
+D:\Programming Projects\C#\General\Structs_Enums\obj\Debug\net6.0\Structs_Enums.AssemblyInfo.cs
+D:\Programming Projects\C#\General\Structs_Enums\obj\Debug\net6.0\Structs_Enums.csproj.CoreCompileInputs.cache
+D:\Programming Projects\C#\General\Structs_Enums\obj\Debug\net6.0\Structs_Enums.dll
+D:\Programming Projects\C#\General\Structs_Enums\obj\Debug\net6.0\refint\Structs_Enums.dll
+D:\Programming Projects\C#\General\Structs_Enums\obj\Debug\net6.0\Structs_Enums.pdb
+D:\Programming Projects\C#\General\Structs_Enums\obj\Debug\net6.0\Structs_Enums.genruntimeconfig.cache
+D:\Programming Projects\C#\General\Structs_Enums\obj\Debug\net6.0\ref\Structs_Enums.dll

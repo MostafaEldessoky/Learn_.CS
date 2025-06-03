@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Math_DateTime_Regex_Random/1.0.0": {
+        "runtime": {
+          "Math_DateTime_Regex_Random.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Math_DateTime_Regex_Random/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

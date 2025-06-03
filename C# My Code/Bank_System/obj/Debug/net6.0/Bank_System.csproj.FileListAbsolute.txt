@@ -1,0 +1,14 @@
+D:\Programming Projects\C#\General\Bank_System\bin\Debug\net6.0\Bank_System.exe
+D:\Programming Projects\C#\General\Bank_System\bin\Debug\net6.0\Bank_System.deps.json
+D:\Programming Projects\C#\General\Bank_System\bin\Debug\net6.0\Bank_System.runtimeconfig.json
+D:\Programming Projects\C#\General\Bank_System\bin\Debug\net6.0\Bank_System.dll
+D:\Programming Projects\C#\General\Bank_System\bin\Debug\net6.0\Bank_System.pdb
+D:\Programming Projects\C#\General\Bank_System\obj\Debug\net6.0\Bank_System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Projects\C#\General\Bank_System\obj\Debug\net6.0\Bank_System.AssemblyInfoInputs.cache
+D:\Programming Projects\C#\General\Bank_System\obj\Debug\net6.0\Bank_System.AssemblyInfo.cs
+D:\Programming Projects\C#\General\Bank_System\obj\Debug\net6.0\Bank_System.csproj.CoreCompileInputs.cache
+D:\Programming Projects\C#\General\Bank_System\obj\Debug\net6.0\Bank_System.dll
+D:\Programming Projects\C#\General\Bank_System\obj\Debug\net6.0\refint\Bank_System.dll
+D:\Programming Projects\C#\General\Bank_System\obj\Debug\net6.0\Bank_System.pdb
+D:\Programming Projects\C#\General\Bank_System\obj\Debug\net6.0\Bank_System.genruntimeconfig.cache
+D:\Programming Projects\C#\General\Bank_System\obj\Debug\net6.0\ref\Bank_System.dll

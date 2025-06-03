@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming Projects\\C#\\Console Apps\\Structs_Enums_Nallable\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{981932FE-9FE7-4EC7-A203-5D5EF0B9C35A}|Structs_Enums_Nullable.csproj|d:\\programming projects\\c#\\console apps\\structs_enums_nallable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{981932FE-9FE7-4EC7-A203-5D5EF0B9C35A}|Structs_Enums_Nullable.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming Projects\\C#\\Console Apps\\Structs_Enums_Nallable\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Programming Projects\\C#\\Console Apps\\Structs_Enums_Nallable\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T22:04:26.519Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

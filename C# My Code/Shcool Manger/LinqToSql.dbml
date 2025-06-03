@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Shcool" Class="LinqToSqlDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=MOSTAFA\MOSTAFA_SQL;Initial Catalog=Shcool;Persist Security Info=True;User ID=sa;Pooling=False;Encrypt=True;Trust Server Certificate=True" SettingsObjectName="Shcool_Manger.Properties.Settings" SettingsPropertyName="ShcoolConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Shcool" Member="Shcools">
+    <Type Name="Shcool">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="Shcool_Student" Member="Students" ThisKey="Id" OtherKey="Shcoolid" Type="Student" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Student" Member="Students">
+    <Type Name="Student">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Gender" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Shcoolid" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Student_StudentSubject" Member="StudentSubjects" ThisKey="Id" OtherKey="Studentid" Type="StudentSubject" />
+      <Association Name="Shcool_Student" Member="Shcool" ThisKey="Shcoolid" OtherKey="Id" Type="Shcool" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.StudentSubjects" Member="StudentSubjects">
+    <Type Name="StudentSubject">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Studentid" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Subjectid" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Student_StudentSubject" Member="Student" ThisKey="Studentid" OtherKey="Id" Type="Student" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+      <Association Name="Subject_StudentSubject" Member="Subject" ThisKey="Subjectid" OtherKey="Id" Type="Subject" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Subject" Member="Subjects">
+    <Type Name="Subject">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Course" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="Subject_StudentSubject" Member="StudentSubjects" ThisKey="Id" OtherKey="Subjectid" Type="StudentSubject" />
+    </Type>
+  </Table>
+</Database>

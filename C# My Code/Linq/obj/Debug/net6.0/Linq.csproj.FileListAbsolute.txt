@@ -1,0 +1,14 @@
+D:\Programming Projects\C#\Console Apps\Linq\bin\Debug\net6.0\Linq.exe
+D:\Programming Projects\C#\Console Apps\Linq\bin\Debug\net6.0\Linq.deps.json
+D:\Programming Projects\C#\Console Apps\Linq\bin\Debug\net6.0\Linq.runtimeconfig.json
+D:\Programming Projects\C#\Console Apps\Linq\bin\Debug\net6.0\Linq.dll
+D:\Programming Projects\C#\Console Apps\Linq\bin\Debug\net6.0\Linq.pdb
+D:\Programming Projects\C#\Console Apps\Linq\obj\Debug\net6.0\Linq.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Projects\C#\Console Apps\Linq\obj\Debug\net6.0\Linq.AssemblyInfoInputs.cache
+D:\Programming Projects\C#\Console Apps\Linq\obj\Debug\net6.0\Linq.AssemblyInfo.cs
+D:\Programming Projects\C#\Console Apps\Linq\obj\Debug\net6.0\Linq.csproj.CoreCompileInputs.cache
+D:\Programming Projects\C#\Console Apps\Linq\obj\Debug\net6.0\Linq.dll
+D:\Programming Projects\C#\Console Apps\Linq\obj\Debug\net6.0\refint\Linq.dll
+D:\Programming Projects\C#\Console Apps\Linq\obj\Debug\net6.0\Linq.pdb
+D:\Programming Projects\C#\Console Apps\Linq\obj\Debug\net6.0\Linq.genruntimeconfig.cache
+D:\Programming Projects\C#\Console Apps\Linq\obj\Debug\net6.0\ref\Linq.dll

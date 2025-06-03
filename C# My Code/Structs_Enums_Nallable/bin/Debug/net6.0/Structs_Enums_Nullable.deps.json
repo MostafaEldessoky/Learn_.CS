@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Structs_Enums_Nullable/1.0.0": {
+        "runtime": {
+          "Structs_Enums_Nullable.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Structs_Enums_Nullable/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+D:\Programming Projects\C#\General\Math_DateTime_Regex_Random\bin\Debug\net6.0\Math_DateTime_Regex_Random.exe
+D:\Programming Projects\C#\General\Math_DateTime_Regex_Random\bin\Debug\net6.0\Math_DateTime_Regex_Random.deps.json
+D:\Programming Projects\C#\General\Math_DateTime_Regex_Random\bin\Debug\net6.0\Math_DateTime_Regex_Random.runtimeconfig.json
+D:\Programming Projects\C#\General\Math_DateTime_Regex_Random\bin\Debug\net6.0\Math_DateTime_Regex_Random.dll
+D:\Programming Projects\C#\General\Math_DateTime_Regex_Random\bin\Debug\net6.0\Math_DateTime_Regex_Random.pdb
+D:\Programming Projects\C#\General\Math_DateTime_Regex_Random\obj\Debug\net6.0\Math_DateTime_Regex_Random.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Projects\C#\General\Math_DateTime_Regex_Random\obj\Debug\net6.0\Math_DateTime_Regex_Random.AssemblyInfoInputs.cache
+D:\Programming Projects\C#\General\Math_DateTime_Regex_Random\obj\Debug\net6.0\Math_DateTime_Regex_Random.AssemblyInfo.cs
+D:\Programming Projects\C#\General\Math_DateTime_Regex_Random\obj\Debug\net6.0\Math_DateTime_Regex_Random.csproj.CoreCompileInputs.cache
+D:\Programming Projects\C#\General\Math_DateTime_Regex_Random\obj\Debug\net6.0\Math_DateTime_Regex_Random.dll
+D:\Programming Projects\C#\General\Math_DateTime_Regex_Random\obj\Debug\net6.0\refint\Math_DateTime_Regex_Random.dll
+D:\Programming Projects\C#\General\Math_DateTime_Regex_Random\obj\Debug\net6.0\Math_DateTime_Regex_Random.pdb
+D:\Programming Projects\C#\General\Math_DateTime_Regex_Random\obj\Debug\net6.0\Math_DateTime_Regex_Random.genruntimeconfig.cache
+D:\Programming Projects\C#\General\Math_DateTime_Regex_Random\obj\Debug\net6.0\ref\Math_DateTime_Regex_Random.dll

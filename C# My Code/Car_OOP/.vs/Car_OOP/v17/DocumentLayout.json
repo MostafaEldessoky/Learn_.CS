@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming Projects\\C#\\General\\Car_OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32F6591B-4DFC-4A4D-8865-25F078743504}|Car_OOP.csproj|D:\\Programming Projects\\C#\\General\\Car_OOP\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32F6591B-4DFC-4A4D-8865-25F078743504}|Car_OOP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32F6591B-4DFC-4A4D-8865-25F078743504}|Car_OOP.csproj|D:\\Programming Projects\\C#\\General\\Car_OOP\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32F6591B-4DFC-4A4D-8865-25F078743504}|Car_OOP.csproj|solutionrelative:vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32F6591B-4DFC-4A4D-8865-25F078743504}|Car_OOP.csproj|D:\\Programming Projects\\C#\\General\\Car_OOP\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32F6591B-4DFC-4A4D-8865-25F078743504}|Car_OOP.csproj|solutionrelative:bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32F6591B-4DFC-4A4D-8865-25F078743504}|Car_OOP.csproj|D:\\Programming Projects\\C#\\General\\Car_OOP\\honda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32F6591B-4DFC-4A4D-8865-25F078743504}|Car_OOP.csproj|solutionrelative:honda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32F6591B-4DFC-4A4D-8865-25F078743504}|Car_OOP.csproj|D:\\Programming Projects\\C#\\General\\Car_OOP\\ducati.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32F6591B-4DFC-4A4D-8865-25F078743504}|Car_OOP.csproj|solutionrelative:ducati.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32F6591B-4DFC-4A4D-8865-25F078743504}|Car_OOP.csproj|D:\\Programming Projects\\C#\\General\\Car_OOP\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32F6591B-4DFC-4A4D-8865-25F078743504}|Car_OOP.csproj|solutionrelative:motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32F6591B-4DFC-4A4D-8865-25F078743504}|Car_OOP.csproj|D:\\Programming Projects\\C#\\General\\Car_OOP\\reno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32F6591B-4DFC-4A4D-8865-25F078743504}|Car_OOP.csproj|solutionrelative:reno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32F6591B-4DFC-4A4D-8865-25F078743504}|Car_OOP.csproj|d:\\programming projects\\c#\\general\\car_oop\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32F6591B-4DFC-4A4D-8865-25F078743504}|Car_OOP.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32F6591B-4DFC-4A4D-8865-25F078743504}|Car_OOP.csproj|D:\\Programming Projects\\C#\\General\\Car_OOP\\iparking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32F6591B-4DFC-4A4D-8865-25F078743504}|Car_OOP.csproj|solutionrelative:iparking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32F6591B-4DFC-4A4D-8865-25F078743504}|Car_OOP.csproj|D:\\Programming Projects\\C#\\General\\Car_OOP\\imaintenance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32F6591B-4DFC-4A4D-8865-25F078743504}|Car_OOP.csproj|solutionrelative:imaintenance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32F6591B-4DFC-4A4D-8865-25F078743504}|Car_OOP.csproj|D:\\Programming Projects\\C#\\General\\Car_OOP\\ifuel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32F6591B-4DFC-4A4D-8865-25F078743504}|Car_OOP.csproj|solutionrelative:ifuel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32F6591B-4DFC-4A4D-8865-25F078743504}|Car_OOP.csproj|D:\\Programming Projects\\C#\\General\\Car_OOP\\idrive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32F6591B-4DFC-4A4D-8865-25F078743504}|Car_OOP.csproj|solutionrelative:idrive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IParking.cs",
+              "DocumentMoniker": "D:\\Programming Projects\\C#\\General\\Car_OOP\\IParking.cs",
+              "RelativeDocumentMoniker": "IParking.cs",
+              "ToolTip": "D:\\Programming Projects\\C#\\General\\Car_OOP\\IParking.cs",
+              "RelativeToolTip": "IParking.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T20:25:47.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IMaintenance.cs",
+              "DocumentMoniker": "D:\\Programming Projects\\C#\\General\\Car_OOP\\IMaintenance.cs",
+              "RelativeDocumentMoniker": "IMaintenance.cs",
+              "ToolTip": "D:\\Programming Projects\\C#\\General\\Car_OOP\\IMaintenance.cs",
+              "RelativeToolTip": "IMaintenance.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T20:24:31.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IFuel.cs",
+              "DocumentMoniker": "D:\\Programming Projects\\C#\\General\\Car_OOP\\IFuel.cs",
+              "RelativeDocumentMoniker": "IFuel.cs",
+              "ToolTip": "D:\\Programming Projects\\C#\\General\\Car_OOP\\IFuel.cs",
+              "RelativeToolTip": "IFuel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T20:23:15.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IDrive.cs",
+              "DocumentMoniker": "D:\\Programming Projects\\C#\\General\\Car_OOP\\IDrive.cs",
+              "RelativeDocumentMoniker": "IDrive.cs",
+              "ToolTip": "D:\\Programming Projects\\C#\\General\\Car_OOP\\IDrive.cs",
+              "RelativeToolTip": "IDrive.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T20:22:42.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ducati.cs",
+              "DocumentMoniker": "D:\\Programming Projects\\C#\\General\\Car_OOP\\Ducati.cs",
+              "RelativeDocumentMoniker": "Ducati.cs",
+              "ToolTip": "D:\\Programming Projects\\C#\\General\\Car_OOP\\Ducati.cs",
+              "RelativeToolTip": "Ducati.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwCUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T20:22:14.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Honda.cs",
+              "DocumentMoniker": "D:\\Programming Projects\\C#\\General\\Car_OOP\\Honda.cs",
+              "RelativeDocumentMoniker": "Honda.cs",
+              "ToolTip": "D:\\Programming Projects\\C#\\General\\Car_OOP\\Honda.cs",
+              "RelativeToolTip": "Honda.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA5wCgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T20:21:49.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Motorcycle.cs",
+              "DocumentMoniker": "D:\\Programming Projects\\C#\\General\\Car_OOP\\Motorcycle.cs",
+              "RelativeDocumentMoniker": "Motorcycle.cs",
+              "ToolTip": "D:\\Programming Projects\\C#\\General\\Car_OOP\\Motorcycle.cs",
+              "RelativeToolTip": "Motorcycle.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwC0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T20:20:54.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "D:\\Programming Projects\\C#\\General\\Car_OOP\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Vehicle.cs",
+              "ToolTip": "D:\\Programming Projects\\C#\\General\\Car_OOP\\Vehicle.cs",
+              "RelativeToolTip": "Vehicle.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwDoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T20:20:06.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\Programming Projects\\C#\\General\\Car_OOP\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "D:\\Programming Projects\\C#\\General\\Car_OOP\\Car.cs",
+              "RelativeToolTip": "Car.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T10:00:48.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Reno.cs",
+              "DocumentMoniker": "D:\\Programming Projects\\C#\\General\\Car_OOP\\Reno.cs",
+              "RelativeDocumentMoniker": "Reno.cs",
+              "ToolTip": "D:\\Programming Projects\\C#\\General\\Car_OOP\\Reno.cs",
+              "RelativeToolTip": "Reno.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T12:52:14.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BMW.cs",
+              "DocumentMoniker": "D:\\Programming Projects\\C#\\General\\Car_OOP\\BMW.cs",
+              "RelativeDocumentMoniker": "BMW.cs",
+              "ToolTip": "D:\\Programming Projects\\C#\\General\\Car_OOP\\BMW.cs",
+              "RelativeToolTip": "BMW.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T12:51:55.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming Projects\\C#\\General\\Car_OOP\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Programming Projects\\C#\\General\\Car_OOP\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T09:55:27.761Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

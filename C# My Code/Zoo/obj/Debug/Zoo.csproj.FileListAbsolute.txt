@@ -1,0 +1,15 @@
+D:\Programming Projects\C#\WPF Apps\Zoo\obj\Debug\Zoo.csproj.AssemblyReference.cache
+D:\Programming Projects\C#\WPF Apps\Zoo\obj\Debug\MainWindow.g.cs
+D:\Programming Projects\C#\WPF Apps\Zoo\obj\Debug\App.g.cs
+D:\Programming Projects\C#\WPF Apps\Zoo\obj\Debug\Zoo_MarkupCompile.cache
+D:\Programming Projects\C#\WPF Apps\Zoo\obj\Debug\Zoo_MarkupCompile.lref
+D:\Programming Projects\C#\WPF Apps\Zoo\bin\Debug\Zoo.exe.config
+D:\Programming Projects\C#\WPF Apps\Zoo\bin\Debug\Zoo.exe
+D:\Programming Projects\C#\WPF Apps\Zoo\bin\Debug\Zoo.pdb
+D:\Programming Projects\C#\WPF Apps\Zoo\obj\Debug\MainWindow.baml
+D:\Programming Projects\C#\WPF Apps\Zoo\obj\Debug\Zoo.g.resources
+D:\Programming Projects\C#\WPF Apps\Zoo\obj\Debug\Zoo.Properties.Resources.resources
+D:\Programming Projects\C#\WPF Apps\Zoo\obj\Debug\Zoo.csproj.GenerateResource.cache
+D:\Programming Projects\C#\WPF Apps\Zoo\obj\Debug\Zoo.csproj.CoreCompileInputs.cache
+D:\Programming Projects\C#\WPF Apps\Zoo\obj\Debug\Zoo.exe
+D:\Programming Projects\C#\WPF Apps\Zoo\obj\Debug\Zoo.pdb

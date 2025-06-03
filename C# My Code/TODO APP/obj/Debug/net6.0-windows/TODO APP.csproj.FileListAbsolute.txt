@@ -1,0 +1,20 @@
+D:\Programming Projects\C#\WPF Apps\TODO APP\bin\Debug\net6.0-windows\TODO APP.exe
+D:\Programming Projects\C#\WPF Apps\TODO APP\bin\Debug\net6.0-windows\TODO APP.deps.json
+D:\Programming Projects\C#\WPF Apps\TODO APP\bin\Debug\net6.0-windows\TODO APP.runtimeconfig.json
+D:\Programming Projects\C#\WPF Apps\TODO APP\bin\Debug\net6.0-windows\TODO APP.dll
+D:\Programming Projects\C#\WPF Apps\TODO APP\bin\Debug\net6.0-windows\TODO APP.pdb
+D:\Programming Projects\C#\WPF Apps\TODO APP\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Programming Projects\C#\WPF Apps\TODO APP\obj\Debug\net6.0-windows\App.g.cs
+D:\Programming Projects\C#\WPF Apps\TODO APP\obj\Debug\net6.0-windows\TODO APP_MarkupCompile.cache
+D:\Programming Projects\C#\WPF Apps\TODO APP\obj\Debug\net6.0-windows\TODO APP_MarkupCompile.lref
+D:\Programming Projects\C#\WPF Apps\TODO APP\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Programming Projects\C#\WPF Apps\TODO APP\obj\Debug\net6.0-windows\TODO APP.g.resources
+D:\Programming Projects\C#\WPF Apps\TODO APP\obj\Debug\net6.0-windows\TODO APP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Projects\C#\WPF Apps\TODO APP\obj\Debug\net6.0-windows\TODO APP.AssemblyInfoInputs.cache
+D:\Programming Projects\C#\WPF Apps\TODO APP\obj\Debug\net6.0-windows\TODO APP.AssemblyInfo.cs
+D:\Programming Projects\C#\WPF Apps\TODO APP\obj\Debug\net6.0-windows\TODO APP.csproj.CoreCompileInputs.cache
+D:\Programming Projects\C#\WPF Apps\TODO APP\obj\Debug\net6.0-windows\TODO APP.dll
+D:\Programming Projects\C#\WPF Apps\TODO APP\obj\Debug\net6.0-windows\refint\TODO APP.dll
+D:\Programming Projects\C#\WPF Apps\TODO APP\obj\Debug\net6.0-windows\TODO APP.pdb
+D:\Programming Projects\C#\WPF Apps\TODO APP\obj\Debug\net6.0-windows\TODO APP.genruntimeconfig.cache
+D:\Programming Projects\C#\WPF Apps\TODO APP\obj\Debug\net6.0-windows\ref\TODO APP.dll

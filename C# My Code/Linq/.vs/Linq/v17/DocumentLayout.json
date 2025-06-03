@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming Projects\\C#\\Console Apps\\Linq\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6681A6F-5733-4985-9747-EAE5259EA0DC}|Linq.csproj|d:\\programming projects\\c#\\console apps\\linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6681A6F-5733-4985-9747-EAE5259EA0DC}|Linq.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6681A6F-5733-4985-9747-EAE5259EA0DC}|Linq.csproj|d:\\programming projects\\c#\\console apps\\linq\\educationmanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6681A6F-5733-4985-9747-EAE5259EA0DC}|Linq.csproj|solutionrelative:educationmanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6681A6F-5733-4985-9747-EAE5259EA0DC}|Linq.csproj|d:\\programming projects\\c#\\console apps\\linq\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6681A6F-5733-4985-9747-EAE5259EA0DC}|Linq.csproj|solutionrelative:subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6681A6F-5733-4985-9747-EAE5259EA0DC}|Linq.csproj|d:\\programming projects\\c#\\console apps\\linq\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6681A6F-5733-4985-9747-EAE5259EA0DC}|Linq.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6681A6F-5733-4985-9747-EAE5259EA0DC}|Linq.csproj|d:\\programming projects\\c#\\console apps\\linq\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6681A6F-5733-4985-9747-EAE5259EA0DC}|Linq.csproj|solutionrelative:school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 309,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EducationManger.cs",
+              "DocumentMoniker": "D:\\Programming Projects\\C#\\Console Apps\\Linq\\EducationManger.cs",
+              "RelativeDocumentMoniker": "EducationManger.cs",
+              "ToolTip": "D:\\Programming Projects\\C#\\Console Apps\\Linq\\EducationManger.cs",
+              "RelativeToolTip": "EducationManger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T00:29:43.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "D:\\Programming Projects\\C#\\Console Apps\\Linq\\Subject.cs",
+              "RelativeDocumentMoniker": "Subject.cs",
+              "ToolTip": "D:\\Programming Projects\\C#\\Console Apps\\Linq\\Subject.cs",
+              "RelativeToolTip": "Subject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T23:48:15.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "School.cs",
+              "DocumentMoniker": "D:\\Programming Projects\\C#\\Console Apps\\Linq\\School.cs",
+              "RelativeDocumentMoniker": "School.cs",
+              "ToolTip": "D:\\Programming Projects\\C#\\Console Apps\\Linq\\School.cs",
+              "RelativeToolTip": "School.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T23:44:35.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Programming Projects\\C#\\Console Apps\\Linq\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "D:\\Programming Projects\\C#\\Console Apps\\Linq\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T23:44:19.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming Projects\\C#\\Console Apps\\Linq\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Programming Projects\\C#\\Console Apps\\Linq\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T21:53:13.163Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

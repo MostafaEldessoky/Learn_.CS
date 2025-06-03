@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Read_Write_files/1.0.0": {
+        "runtime": {
+          "Read_Write_files.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Read_Write_files/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

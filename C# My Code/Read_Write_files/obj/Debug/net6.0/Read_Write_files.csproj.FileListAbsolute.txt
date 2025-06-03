@@ -1,0 +1,14 @@
+D:\Programming Projects\C#\General\Read_Write_files\bin\Debug\net6.0\Read_Write_files.exe
+D:\Programming Projects\C#\General\Read_Write_files\bin\Debug\net6.0\Read_Write_files.deps.json
+D:\Programming Projects\C#\General\Read_Write_files\bin\Debug\net6.0\Read_Write_files.runtimeconfig.json
+D:\Programming Projects\C#\General\Read_Write_files\bin\Debug\net6.0\Read_Write_files.dll
+D:\Programming Projects\C#\General\Read_Write_files\bin\Debug\net6.0\Read_Write_files.pdb
+D:\Programming Projects\C#\General\Read_Write_files\obj\Debug\net6.0\Read_Write_files.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Projects\C#\General\Read_Write_files\obj\Debug\net6.0\Read_Write_files.AssemblyInfoInputs.cache
+D:\Programming Projects\C#\General\Read_Write_files\obj\Debug\net6.0\Read_Write_files.AssemblyInfo.cs
+D:\Programming Projects\C#\General\Read_Write_files\obj\Debug\net6.0\Read_Write_files.csproj.CoreCompileInputs.cache
+D:\Programming Projects\C#\General\Read_Write_files\obj\Debug\net6.0\Read_Write_files.dll
+D:\Programming Projects\C#\General\Read_Write_files\obj\Debug\net6.0\refint\Read_Write_files.dll
+D:\Programming Projects\C#\General\Read_Write_files\obj\Debug\net6.0\Read_Write_files.pdb
+D:\Programming Projects\C#\General\Read_Write_files\obj\Debug\net6.0\Read_Write_files.genruntimeconfig.cache
+D:\Programming Projects\C#\General\Read_Write_files\obj\Debug\net6.0\ref\Read_Write_files.dll

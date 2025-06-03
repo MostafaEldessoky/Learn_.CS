@@ -1,0 +1,14 @@
+D:\Programming Projects\C#\General\Car_OOP\bin\Debug\net6.0\Car_OOP.exe
+D:\Programming Projects\C#\General\Car_OOP\bin\Debug\net6.0\Car_OOP.deps.json
+D:\Programming Projects\C#\General\Car_OOP\bin\Debug\net6.0\Car_OOP.runtimeconfig.json
+D:\Programming Projects\C#\General\Car_OOP\bin\Debug\net6.0\Car_OOP.dll
+D:\Programming Projects\C#\General\Car_OOP\bin\Debug\net6.0\Car_OOP.pdb
+D:\Programming Projects\C#\General\Car_OOP\obj\Debug\net6.0\Car_OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Projects\C#\General\Car_OOP\obj\Debug\net6.0\Car_OOP.AssemblyInfoInputs.cache
+D:\Programming Projects\C#\General\Car_OOP\obj\Debug\net6.0\Car_OOP.AssemblyInfo.cs
+D:\Programming Projects\C#\General\Car_OOP\obj\Debug\net6.0\Car_OOP.csproj.CoreCompileInputs.cache
+D:\Programming Projects\C#\General\Car_OOP\obj\Debug\net6.0\Car_OOP.dll
+D:\Programming Projects\C#\General\Car_OOP\obj\Debug\net6.0\refint\Car_OOP.dll
+D:\Programming Projects\C#\General\Car_OOP\obj\Debug\net6.0\Car_OOP.pdb
+D:\Programming Projects\C#\General\Car_OOP\obj\Debug\net6.0\Car_OOP.genruntimeconfig.cache
+D:\Programming Projects\C#\General\Car_OOP\obj\Debug\net6.0\ref\Car_OOP.dll

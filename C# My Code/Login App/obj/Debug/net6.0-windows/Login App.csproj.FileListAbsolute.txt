@@ -1,0 +1,24 @@
+D:\Programming Projects\C#\WPF Apps\Login App\bin\Debug\net6.0-windows\Login App.exe
+D:\Programming Projects\C#\WPF Apps\Login App\bin\Debug\net6.0-windows\Login App.deps.json
+D:\Programming Projects\C#\WPF Apps\Login App\bin\Debug\net6.0-windows\Login App.runtimeconfig.json
+D:\Programming Projects\C#\WPF Apps\Login App\bin\Debug\net6.0-windows\Login App.dll
+D:\Programming Projects\C#\WPF Apps\Login App\bin\Debug\net6.0-windows\Login App.pdb
+D:\Programming Projects\C#\WPF Apps\Login App\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Programming Projects\C#\WPF Apps\Login App\obj\Debug\net6.0-windows\App.g.cs
+D:\Programming Projects\C#\WPF Apps\Login App\obj\Debug\net6.0-windows\Login App_MarkupCompile.cache
+D:\Programming Projects\C#\WPF Apps\Login App\obj\Debug\net6.0-windows\Login App_MarkupCompile.lref
+D:\Programming Projects\C#\WPF Apps\Login App\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Programming Projects\C#\WPF Apps\Login App\obj\Debug\net6.0-windows\Login App.g.resources
+D:\Programming Projects\C#\WPF Apps\Login App\obj\Debug\net6.0-windows\Login App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Projects\C#\WPF Apps\Login App\obj\Debug\net6.0-windows\Login App.AssemblyInfoInputs.cache
+D:\Programming Projects\C#\WPF Apps\Login App\obj\Debug\net6.0-windows\Login App.AssemblyInfo.cs
+D:\Programming Projects\C#\WPF Apps\Login App\obj\Debug\net6.0-windows\Login App.csproj.CoreCompileInputs.cache
+D:\Programming Projects\C#\WPF Apps\Login App\obj\Debug\net6.0-windows\Login App.dll
+D:\Programming Projects\C#\WPF Apps\Login App\obj\Debug\net6.0-windows\refint\Login App.dll
+D:\Programming Projects\C#\WPF Apps\Login App\obj\Debug\net6.0-windows\Login App.pdb
+D:\Programming Projects\C#\WPF Apps\Login App\obj\Debug\net6.0-windows\Login App.genruntimeconfig.cache
+D:\Programming Projects\C#\WPF Apps\Login App\obj\Debug\net6.0-windows\ref\Login App.dll
+D:\Programming Projects\C#\WPF Apps\Login App\obj\Debug\net6.0-windows\Page1.g.cs
+D:\Programming Projects\C#\WPF Apps\Login App\obj\Debug\net6.0-windows\Page2.g.cs
+D:\Programming Projects\C#\WPF Apps\Login App\obj\Debug\net6.0-windows\Page1.baml
+D:\Programming Projects\C#\WPF Apps\Login App\obj\Debug\net6.0-windows\Page2.baml
